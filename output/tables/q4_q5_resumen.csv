@@ -1,0 +1,3 @@
+Especificación,τ (años),SCR total (pp²),N observaciones,N regresiones (meses),RMSE (pb)
+"τ = 1 año (validación, Q4)",1.0,23.057530642751985,1320,120,13.216590424352672
+τ óptimo (Q5),2.0943117088261096,12.58082378810282,1320,120,9.762646727296397
